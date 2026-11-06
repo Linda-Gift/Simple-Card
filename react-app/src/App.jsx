@@ -8,7 +8,7 @@ function App() {
       descriptionText = "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat ducimus eum corrupti culpa minima cupiditate nemo!"
       button = "Subcribe"
     />
-    <Card 
+    {/* <Card 
       titleText = "konectar Card"
       descriptionText = "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat ducimus eum corrupti culpa minima cupiditate nemo!"
       button = "Contact Us"
@@ -18,7 +18,7 @@ function App() {
     titleText = "Long Card Title Text"
     descriptionText = "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat ducimus eum corrupti culpa minima cupiditate nemo!"
     button = "Learn More..."
-    />
+    /> */}
 
     
     </>

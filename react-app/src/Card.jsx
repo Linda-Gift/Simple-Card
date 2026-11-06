@@ -1,8 +1,10 @@
+import Counter from "./StateManagement.jsx"
+
 function Card(props){
     return(
         <div className="cardcontainer">
  
-            <div className="cardtitle">
+            {/* <div className="cardtitle">
                 <h1>
                   {props.titleText}
                 </h1>
@@ -16,7 +18,9 @@ function Card(props){
 
             <div className="button">
                 <button>{props.button}</button>
-            </div>
+            </div> */}
+
+            <Counter />
         </div>
         
     )
